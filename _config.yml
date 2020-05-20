@@ -1,10 +1,10 @@
-permalink: /:categories/:title.html
+permalink: /jekyll-masonry/:categories/:title.html
 url: "http://raamg.github.io/jekyll-masonry/"
 full_name: "Your Full Name"
 first_name: "First Name"
 last_name: "Last Name"
 blog_title: "Blog title "
-author_img_name_path: "/images/users/user.jpg"
+author_img_name_path: "/jekyll-masonry/images/users/user.jpg"
 disqus_shortname: "pasinduland"
 copyright_year: "2014"
 google_analytics_code: ""
